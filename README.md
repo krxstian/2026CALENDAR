@@ -1,3 +1,3 @@
 # 2026CALENDAR
-# Candela,Christian M.
+# Candela, Christian M.
 # BSIT-101
